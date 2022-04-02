@@ -1,5 +1,6 @@
 /* Program for strcpy() */
 #include<stdio.h>
+#include<string.h>
 int main(){
   char original[100];
   char duplicate[100];
