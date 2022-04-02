@@ -1,4 +1,4 @@
-/* Program To Add Two Given matrices by Patan Musthakheem Khan*/
+/* Program To Add Two Given matrices by Patan Musthakheem Khan */
 #include <stdio.h>
 #include<conio.h>
 int main(){
