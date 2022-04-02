@@ -1,5 +1,4 @@
-/* Program to Add Two given matrices by Patan Musthakheem Khan */
-/* Program to Add Two given matrices by Patan Musthakheem Khan */
+/* Program to Add Two given matrices simplified program by Patan Musthakheem Khan */
 #include <stdio.h>
 int main(){
     int i, j, row, col;
