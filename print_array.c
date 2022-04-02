@@ -1,4 +1,4 @@
-/* Program to print array elements */
+/* Program to print array elements  */
 #include<stdio.h>
 int main(){
   int a[10], n, i;
