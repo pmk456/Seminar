@@ -1,4 +1,4 @@
-/* Program To Multiply Two given matrices by Patan Musthakheem Khan */
+/* Program To Multiply Two given matrices by Patan Musthakheem Khan  */
 #include <stdio.h>
 int main(){
     int i, j, k, row, col;
